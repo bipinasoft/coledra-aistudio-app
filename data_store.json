@@ -1,0 +1,293 @@
+{
+  "hero": {
+    "badge": "Enterprise AI & Cloud Transformation Partner",
+    "headline": "Architecting Autonomous Enterprise Systems &",
+    "highlightText": "Agentic AI Solutions",
+    "subheadline": "Coledra Solutions empowers global enterprises with mission-critical Agentic AI engineering, Oracle Cloud modernization, SAP S/4HANA migrations, Identity Management, and resilient cloud architectures.",
+    "ctaPrimary": "Request Architecture Consultation",
+    "ctaSecondary": "Explore Enterprise Services"
+  },
+  "contactInfo": {
+    "email": "info.coledra@gmail.com",
+    "phone": "+91 9938770010",
+    "regOffice": "Plot No. 48, Infocity Road, Patia, Bhubaneswar, Odisha 751024, India",
+    "corpOffice": "Level 7, Cyber Gateway, HITEC City, Hyderabad, Telangana 500081, India",
+    "businessHours": "Monday - Friday: 9:00 AM - 7:00 PM IST"
+  },
+  "services": [
+    {
+      "id": "agentic-ai",
+      "title": "Agentic AI Development",
+      "shortDesc": "Autonomous multi-agent systems, goal-driven tool orchestration, and LLM-powered enterprise workflows.",
+      "fullDesc": "We engineer proprietary multi-agent swarms using state-of-the-art foundation models, semantic vector memory, tool-calling pipelines, and guardrails to automate complex cross-functional business tasks with human-in-the-loop governance.",
+      "deliverables": [
+        "Autonomous Decision-Making Agents",
+        "Dynamic Tool Calling & API Synthesizers",
+        "Self-Correcting Reasoning Loops",
+        "Enterprise Guardrails & Evaluation Pipelines"
+      ],
+      "techStack": [
+        "Gemini 2.5 / 1.5",
+        "LangGraph",
+        "LlamaIndex",
+        "FastAPI",
+        "Pinecone",
+        "ChromaDB"
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ai-enabled-business",
+      "title": "AI Enabled Business & Automation",
+      "shortDesc": "End-to-end intelligent automation transforming operations, document synthesis, and customer lifecycles.",
+      "fullDesc": "Transform traditional business processes into intelligent, automated operations. We integrate cognitive document processing, predictive churn modeling, recommendation engines, and automated invoice reconciliation.",
+      "deliverables": [
+        "Intelligent Document Processing (IDP)",
+        "Predictive Sales & Churn Forecasters",
+        "Automated Compliance & Audit Scanners",
+        "Executive Decision Dashboards"
+      ],
+      "techStack": [
+        "PyTorch",
+        "Hugging Face",
+        "TensorFlow",
+        "Databricks",
+        "MLflow"
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "app-development",
+      "title": "Application Development",
+      "shortDesc": "High-scale, ultra-secure cloud-native web, iOS, Android, and distributed microservices architectures.",
+      "fullDesc": "From multi-tenant SaaS platforms to low-latency fintech applications, Coledra engineers robust software products with test-driven discipline, zero-trust security postures, and sub-second performance profiles.",
+      "deliverables": [
+        "Modern React & Next.js Platforms",
+        "Native iOS & Android Mobile Apps",
+        "Distributed Microservices & Event Meshes",
+        "Zero-Trust API Gateways"
+      ],
+      "techStack": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Go",
+        "Docker",
+        "PostgreSQL",
+        "Kafka"
+      ],
+      "category": "Software Engineering"
+    },
+    {
+      "id": "oracle-cloud",
+      "title": "Oracle Cloud Consulting",
+      "shortDesc": "End-to-end Oracle Cloud Infrastructure (OCI), ERP, HCM, SCM implementations and managed migrations.",
+      "fullDesc": "Certified Oracle consultants architecting high-yield transitions from on-premise EBS or legacy databases to Oracle Cloud Infrastructure (OCI), Fusion ERP, Supply Chain Management, and Autonomous Database clusters.",
+      "deliverables": [
+        "Oracle Fusion ERP & HCM Deployment",
+        "EBS to OCI Seamless Migration",
+        "Oracle Autonomous Database Optimization",
+        "24/7 Managed OCI Performance SLAs"
+      ],
+      "techStack": [
+        "Oracle Cloud Infrastructure (OCI)",
+        "Oracle ERP Cloud",
+        "Autonomous DB",
+        "Oracle GoldenGate",
+        "PL/SQL"
+      ],
+      "category": "Enterprise Systems"
+    },
+    {
+      "id": "sap-services",
+      "title": "SAP All Services",
+      "shortDesc": "Comprehensive SAP S/4HANA transformations, BTP integration suite, SAP Fiori, and functional consulting.",
+      "fullDesc": "Maximize enterprise agility with Coledra's comprehensive SAP practice. We deliver Greenfield and Brownfield SAP S/4HANA migrations, SAP Business Technology Platform (BTP) extensions, SuccessFactors, and custom Fiori interfaces.",
+      "deliverables": [
+        "SAP S/4HANA Greenfield/Brownfield Migrations",
+        "SAP BTP Integration & Cloud Extension",
+        "Custom SAP Fiori UX Development",
+        "SAP SuccessFactors & Ariba Integration"
+      ],
+      "techStack": [
+        "SAP S/4HANA",
+        "SAP BTP",
+        "SAP Fiori",
+        "ABAP on Cloud",
+        "SAP HANA",
+        "CPI"
+      ],
+      "category": "Enterprise Systems"
+    },
+    {
+      "id": "identity-management",
+      "title": "Identity & Access Management (IAM)",
+      "shortDesc": "Zero-Trust identity governance, privileged access management, Okta, CyberArk, and multi-cloud IAM.",
+      "fullDesc": "Safeguard your crown jewels with modern Identity Governance and Administration (IGA) and Privileged Access Management (PAM). We enforce strict least-privilege policies, frictionless SSO, biometric MFA, and automated lifecycle provisioning.",
+      "deliverables": [
+        "Zero-Trust Identity Architecture",
+        "Privileged Access Management (PAM)",
+        "Single Sign-On (SSO) & Biometric MFA",
+        "Automated User Lifecycle Provisioning"
+      ],
+      "techStack": [
+        "Okta",
+        "CyberArk",
+        "Ping Identity",
+        "Microsoft Entra ID",
+        "OAuth2 / OIDC",
+        "SAML 2.0"
+      ],
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "data-driven-services",
+      "title": "Data Driven Services & Analytics",
+      "shortDesc": "Modern data pipelines, lakehouses, Snowflake, BigQuery, Power BI, and predictive business intelligence.",
+      "fullDesc": "Unify fragmented data silos into authoritative lakehouse architectures. We design real-time streaming ingestion, automated dbt data modeling pipelines, and executive dashboards delivering immediate actionable insights.",
+      "deliverables": [
+        "Modern Lakehouse & Warehouse Architectures",
+        "Real-Time Streaming Pipelines (Kafka/Flink)",
+        "dbt Data Modeling & Governance",
+        "Interactive Executive Power BI / Looker Reports"
+      ],
+      "techStack": [
+        "Snowflake",
+        "Google BigQuery",
+        "AWS Redshift",
+        "dbt",
+        "Apache Spark",
+        "Power BI"
+      ],
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "cloud-solutions",
+      "title": "Cloud Solutions & DevOps",
+      "shortDesc": "Multi-cloud architecture on AWS, Azure, GCP, GitOps CI/CD pipelines, Kubernetes, and FinOps.",
+      "fullDesc": "Accelerate software delivery velocity while reducing cloud spend. Coledra constructs immutable infrastructure as code (IaC), zero-downtime Kubernetes clusters, self-healing CI/CD pipelines, and FinOps governance.",
+      "deliverables": [
+        "Multi-Cloud Architecture (AWS / Azure / GCP)",
+        "Kubernetes (EKS / AKS / GKE) Orchestration",
+        "Terraform & OpenTofu Infrastructure as Code",
+        "FinOps Cloud Cost Optimization"
+      ],
+      "techStack": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Terraform",
+        "Kubernetes",
+        "Helm",
+        "GitHub Actions"
+      ],
+      "category": "Cloud & Infrastructure"
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing & Growth Engineering",
+      "shortDesc": "Performance marketing, technical SEO, conversion rate optimization, and programmatic B2B lead generation.",
+      "fullDesc": "Fuel predictable revenue growth with data-backed digital marketing. We blend advanced technical SEO, high-intent Google Ads and LinkedIn B2B campaigns, landing page CRO, and automated lead nurturing funnels.",
+      "deliverables": [
+        "Omnichannel B2B Inbound Engines",
+        "Technical SEO & Schema Optimization",
+        "High-Converting Funnel Architecture",
+        "Marketing Automation & CRM Sync"
+      ],
+      "techStack": [
+        "Google Analytics 4",
+        "HubSpot",
+        "Google Ads",
+        "LinkedIn Campaign Manager",
+        "SEMrush"
+      ],
+      "category": "Growth & Marketing"
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "cs-1",
+      "title": "Tier-1 Supply Chain: SAP S/4HANA Cloud Transition",
+      "clientType": "Global Logistics & Automotive Conglomerate",
+      "metrics": "34% Reduction in Cycle Times · $3.8M OpEx Saved",
+      "description": "Migrated 14 legacy ERP instances into a unified SAP S/4HANA Cloud environment with custom BTP event integration, handling 2.4M daily transactions with zero operational downtime.",
+      "servicesUsed": [
+        "SAP All Services",
+        "Cloud Solutions & DevOps",
+        "Data Driven Services"
+      ],
+      "impact": "Replaced 42 brittle custom batch jobs with real-time event messaging, cutting warehouse reconciliation time from 7 hours to 8 minutes."
+    },
+    {
+      "id": "cs-2",
+      "title": "Autonomous Agentic AI Customer & Claims Engine",
+      "clientType": "FinTech & InsurTech Services Provider",
+      "metrics": "82% Autonomous Resolution · Sub-500ms Response",
+      "description": "Architected a dual-agent workflow with human-in-the-loop oversight to validate policy claims, cross-verify fraud patterns, and generate audited payout approvals.",
+      "servicesUsed": [
+        "Agentic AI Development",
+        "AI Enabled Business",
+        "Application Development"
+      ],
+      "impact": "Reduced average claim processing latency from 4 business days to 3.5 minutes while lowering compliance review overhead by 68%."
+    },
+    {
+      "id": "cs-3",
+      "title": "Global Financial Services: Zero-Trust IAM & OCI Overhaul",
+      "clientType": "Multi-National Banking Corporation",
+      "metrics": "100% Zero-Trust Compliance · 0 Privilege Escalation Incidents",
+      "description": "Deployed Okta and CyberArk PAM unified under automated lifecycle pipelines across 18,000 corporate identities and 4,500 cloud infrastructure assets.",
+      "servicesUsed": [
+        "Identity Management",
+        "Oracle Cloud Consulting",
+        "Cloud Solutions"
+      ],
+      "impact": "Automated contractor on-boarding and off-boarding down from 48 hours to 90 seconds, passing SOC 2 Type II and ISO 27001 with zero findings."
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "post-1",
+      "title": "From Chatbots to Agentic AI: Why Goal-Oriented Multi-Agent Systems Win in 2026",
+      "excerpt": "Why simple prompt wrappers fail enterprise SLAs and how self-correcting multi-agent architectures deliver verifiable outcomes.",
+      "content": "As foundation models matured, the limitation of single-turn prompts became clear. Enterprise workflows require state persistence, tool calling, validation loops, and dynamic task delegation. Agentic AI shifts the paradigm from passive question-answering to proactive execution. At Coledra, we build agent ensembles with specialized planner, executor, and verifier roles that interface directly with enterprise ERPs and databases with strict guardrails.",
+      "date": "October 2026",
+      "readTime": "6 min read",
+      "author": "Chief AI Architect, Coledra",
+      "category": "Agentic AI"
+    },
+    {
+      "id": "post-2",
+      "title": "Strategic Migration Roadmap: Transitioning Legacy Oracle EBS to OCI and Autonomous DB",
+      "excerpt": "Step-by-step methodology for zero-data-loss lift and shift into Oracle Cloud Infrastructure with automated performance tuning.",
+      "content": "Running mission-critical enterprise workloads on legacy on-premise hardware creates technical debt, licensing inflation, and maintenance hazards. Oracle Cloud Infrastructure (OCI) combined with Autonomous Transaction Processing (ATP) delivers self-repairing, autoscaling databases. This article walks through Coledra's four-phase migration framework.",
+      "date": "September 2026",
+      "readTime": "8 min read",
+      "author": "Principal Oracle Consultant, Coledra",
+      "category": "Oracle Cloud"
+    },
+    {
+      "id": "post-3",
+      "title": "Modern Identity Governance: Implementing Zero-Trust Privileged Access in Hybrid Clouds",
+      "excerpt": "Eliminating static credentials and adopting dynamic, just-in-time access provisioning across AWS, Azure, and on-premise Active Directory.",
+      "content": "Traditional network perimeters are obsolete. In modern multi-cloud architectures, Identity is the new perimeter. Learn how to architect a frictionless Zero-Trust posture with Okta, CyberArk, and continuous adaptive risk assessment.",
+      "date": "August 2026",
+      "readTime": "5 min read",
+      "author": "Head of Cybersecurity, Coledra",
+      "category": "IAM & Security"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "INQ-MW9LH4CU",
+      "timestamp": "2026-11-09T18:28:31.182Z",
+      "name": "Enterprise Client",
+      "email": "client@globalenterprise.com",
+      "phone": "+1-555-0199",
+      "service": "Agentic AI Development",
+      "budget": "$50,000 - $150,000",
+      "message": "Testing enterprise inquiry dispatch to info.coledra@gmail.com",
+      "status": "New"
+    }
+  ]
+}
